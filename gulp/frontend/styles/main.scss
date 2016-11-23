@@ -1,0 +1,11 @@
+@import "header";
+
+p {
+  color: #00AA00;
+}
+div {
+  background-color: blue;
+  p {
+    color: aqua;
+  }
+}
